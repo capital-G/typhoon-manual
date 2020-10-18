@@ -2,7 +2,7 @@
 
 This is a manual/cheatsheet for [Superparasites Firmware](https://github.com/patrickdowling/superparasites) installed on a [Typhoon](https://www.modulargrid.net/e/after-later-audio-typhoon).
 
-PDF version can be found [here]().
+PDF version can be found [here](https://raw.githubusercontent.com/capital-G/typhoon-manual/main/README.pdf).
 
 ## Granular Processing
 
