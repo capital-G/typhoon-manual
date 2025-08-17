@@ -4,6 +4,8 @@ This is a manual/cheatsheet for [Superparasites Firmware](https://github.com/pat
 
 PDF version can be found [here](https://raw.githubusercontent.com/capital-G/typhoon-manual/main/README.pdf).
 
+Press and hold time to swap between modes, then press the time to cycle through the options (* = lit LED)
+
 ## Granular Processing
 
 [ **\*** O O O ]
